@@ -1,0 +1,79 @@
+# Ignore Visual Studio temporary files, build results, and
+# other unneeded files.
+ 
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ 
+# User-specific folders
+.vscode/
+.vs/
+_ReSharper.Caches/
+ 
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.vspscc
+*.vssscc
+.vscode/
+ 
+# Test Results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+ 
+# Auto-generated files
+*.g.cs
+*.g.i.cs
+*.designer.cs
+*.csproj.user
+*.dbmdl
+*.pdb
+*.cache
+*.tlog
+*.ide
+ 
+# Packages and dependencies
+*.nupkg
+*.snupkg
+*.psmdcp
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+ 
+# Environment and configuration
+appsettings*.json
+secrets.json
+*.local.settings.json
+.env
+*.config
+ 
+# Rider IDE files
+.idea/
+*.sln.iml
+ 
+# Other unneeded files
+*.log
+*.tmp
+*.bak
+*.swp
+ 
+# MacOS
+.DS_Store
+ 
+# Windows
+Thumbs.db
+desktop.ini
